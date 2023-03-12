@@ -1,6 +1,4 @@
-# 100-Javascript-Projects-Part-5
-
-# Email-Verifier
+# 1.Email-Verifier
 
 emoji-range-slider
 
