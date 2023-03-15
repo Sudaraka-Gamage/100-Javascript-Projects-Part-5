@@ -1,6 +1,6 @@
 # 1.Email-Verifier
 
-emoji-range-slider
+# emoji-range-slider
 
 file-upload-button
 
