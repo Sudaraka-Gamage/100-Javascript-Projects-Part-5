@@ -2,7 +2,7 @@
 
 # emoji-range-slider
 
-file-upload-button
+# file-upload-button
 
 file-uploader
 
